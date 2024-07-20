@@ -1,7 +1,7 @@
 # Instagram-Database-Clone
-This database is a clone of the basic tables from Instagram.
+This database is a set of basic tables that could be used to form the Instagram application and its functionality.
 
-I created it to practice various forms of analytical queries in SQL. Below are some of the analytical questions I was able to answer using this database using the advanced concepts of SQL.
+I created it to practice various forms of analytical queries in SQL. Below are some of the analytical questions I could answer using this database using the advanced concepts of SQL.
 
 1. **Window Function** - Find the top 3 most active users based on the number of photos they have posted. Display the username and the count of photos for each of these users.
 2. **Window Function with Partition** - For each user, calculate their rank in terms of the number of comments they have made on each photo. Display username, photo_id, comment_count, and rank.
